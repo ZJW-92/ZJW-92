@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true&theme=tokyonight)
+![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true&theme=react)
 
 <!--
 
