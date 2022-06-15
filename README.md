@@ -18,12 +18,18 @@ I am a Software Engineering and Management undergraduate student.
 ## ⚡ Things I am interested with
 - Data Science, Machine Learning, DevOps, Cloud Engineering, AWS
 
-## 💻 Tech Stack
--💻
+## 🛠 Tech Stack
+- 💻 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 
--🌏
--🛢
--🔧
+- 🌏
+
+- 🛢&#160;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+- 🔧 
 
 ![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true&theme=react)
 
