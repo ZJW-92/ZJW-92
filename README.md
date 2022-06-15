@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92)](https://github.com/anuraghazra/github-readme-stats)
+![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true)
 
 <!--
 
