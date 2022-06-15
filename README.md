@@ -1,7 +1,7 @@
 ## I am Zhijie Wei. Welcome to my Github page! 👋
 
 [![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
-[![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/zhijie-wei-858895219)
+[![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhijie-wei-858895219)
 
 I am a Software Engineering and Management undergraduate student.
 
