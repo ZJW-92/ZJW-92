@@ -1,7 +1,10 @@
 ### Hi there 👋
 ![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true&theme=react)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=react)
+
 <!--
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=Stoink_stock_price_prediction&theme=react&show_owners)
 
 Here are some ideas to get you started:
 
