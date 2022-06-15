@@ -1,7 +1,7 @@
 ## I am Zhijie Wei. Welcome to my Github page! 👋
-[![Mail Badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
+
 [![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
-![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zhijie-wei-858895219/)](https://www.linkedin.com/in/zhijie-wei-858895219)
 
 I am a Software Engineering and Management undergraduate student.
 
@@ -31,6 +31,8 @@ I am a Software Engineering and Management undergraduate student.
 
 <!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=Stoink_stock_price_prediction&theme=react&show_owners)
+
+[![Mail Badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
 
 Here are some ideas to get you started:
 
