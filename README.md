@@ -10,7 +10,7 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 ## 🌱 Things I am currently working on: 
 - Finish bachelor thesis 
 - Refine my CV and find a job within Data/IT 
-- Watch TVB (Hongkong drama) in spare time 
+
 
 ## 💪🏻 Things I am challenging myself with: 
 - Sleep before 10pm
@@ -22,6 +22,7 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 
 ## ⚡ Things I am interested with
 - Data Science, Machine Learning, DevOps, Cloud Engineering, AWS
+- Watch TVB (Hongkong drama) in spare time 
 
 ## 🛠 Tech Stack
 - 💻 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
