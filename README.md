@@ -3,6 +3,8 @@
 [![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhijie-wei-858895219)
 
+<img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
+
 I am a Software Engineering and Management undergraduate student.
 
 ## 🌱 Things I am currently working on: 
@@ -47,10 +49,16 @@ I am a Software Engineering and Management undergraduate student.
 ![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=react)
 
+
+
 <!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=Stoink_stock_price_prediction&theme=react&show_owners)
-
 [![Mail Badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+<img align="right" src="https://imgur.com/qistEkP.gif" width="50%"/>
+
 
 Here are some ideas to get you started:
 
