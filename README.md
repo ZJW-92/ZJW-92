@@ -17,7 +17,8 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 - Go to the gym 4-5 times every week
 - Eat no more than 2800 kcal/day 
 - Keep learning about web framework react, vue etc
-- Learn Cantonese language 🇭🇰 which is also used in southern area of China and Hongkong(香港). 
+- Learn Cantonese language 🇭🇰 which is also a language used in southern area of China and Hongkong(香港). 
+- Learn Swedish 🇸🇪 
 
 ## ⚡ Things I am interested with
 - Data Science, Machine Learning, DevOps, Cloud Engineering, AWS
