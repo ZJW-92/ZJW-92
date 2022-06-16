@@ -1,21 +1,23 @@
-## I am Zhijie Wei. Welcome to my Github page! 👋
+# 你好! I am Zhijie Wei. Welcome to my Github page! 👋
 
 [![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhijie-wei-858895219)
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
 
-I am a Software Engineering and Management undergraduate student.
+I am a Software Engineering and Management undergraduate student. Born in Shanghai (上海) and living in Gothenburg, Sweden🇸🇪. 
 
 ## 🌱 Things I am currently working on: 
 - Finish bachelor thesis 
 - Refine my CV and find a job within Data/IT 
+- Watch TVB (Hongkong drama) in spare time 
 
 ## 💪🏻 Things I am challenging myself with: 
 - Sleep before 10pm
 - Go to the gym 4-5 times every week
 - Eat no more than 2800 kcal/day 
 - Keep learning about web framework react, vue etc
+- Learn Cantonese language 🇭🇰 which is also used in southern area of China and Hongkong(香港). 
 
 ## ⚡ Things I am interested with
 - Data Science, Machine Learning, DevOps, Cloud Engineering, AWS
