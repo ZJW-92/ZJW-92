@@ -17,12 +17,11 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 - Go to the gym 4-5 times every week
 - Eat no more than 2800 kcal/day 
 - Keep learning about web framework react, vue etc
-- Learn Cantonese language 🇭🇰 which is also a language used in southern area of China and Hongkong(香港). 
+- Learn Cantonese language 🇭🇰  
 - Learn Swedish 🇸🇪 
 
 ## ⚡ Things I am interested with
 - Data Science, Machine Learning, DevOps, Cloud Engineering, AWS
-- Watch TVB (Hongkong drama) in spare time 
 
 ## 🛠 Tech Stack
 - 💻 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
