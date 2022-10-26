@@ -15,9 +15,8 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 ## 💪🏻 Things I am challenging myself with: 
 - Sleep before 10pm
 - Go to the gym 3-4 times every week 
-- Keep learning about web framework react, vue etc
-- Learn Cantonese language 🇭🇰  
-- Learn Swedish 🇸🇪 
+- Keep learning about data analysis, web framework react, vue etc
+- Keep learning Swedish 🇸🇪 
 
 ## ⚡ Things I am interested with
 - Data Science, Machine Learning, DevOps, Cloud Engineering, AWS
