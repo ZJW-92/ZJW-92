@@ -9,7 +9,7 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 
 ## 🌱 Things I am currently working on: 
 
-- Refine my CV and find a job within Data/IT 
+- Find a job within Data/IT 
 
 
 ## 💪🏻 Things I am challenging myself with: 
