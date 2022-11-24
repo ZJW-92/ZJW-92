@@ -13,13 +13,12 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 
 
 ## 💪🏻 Things I am challenging myself with: 
-- Sleep before 10pm
 - Go to the gym 3-4 times every week 
-- Keep learning about data analysis, web framework react, vue etc
+- Keep learning about Robot framework,linux, data analysis etc
 - Keep learning Swedish 🇸🇪 
 
 ## ⚡ Things I am interested with
-- Data Science, Machine Learning, DevOps, Cloud Engineering, AWS
+- Test Automation, DevOps, Machine Learning, Cloud Engineering, Business intelligence
 
 ## 🛠 Tech Stack
 - 💻 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
