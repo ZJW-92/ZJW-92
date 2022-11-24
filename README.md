@@ -18,7 +18,7 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 - Keep learning Swedish 🇸🇪 
 
 ## ⚡ Things I am interested with
-- Test Automation, DevOps, Machine Learning, Cloud Engineering, Business intelligence
+- Quality Assurance, Test Automation, DevOps, Machine Learning, Cloud Engineering, Business Intelligence
 
 ## 🛠 Tech Stack
 - 💻 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
