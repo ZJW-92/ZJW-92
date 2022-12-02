@@ -56,8 +56,8 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=react)
+![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=highcontrast)
 
 
 
