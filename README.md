@@ -43,6 +43,7 @@ I am a Software Engineering and Management undergraduate student. Born in Shangh
 
 - Testing 🤖 : ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)<img src = "https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" height="40" width="40" alt="dddd"/>
+![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 - Db 🛢: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
