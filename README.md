@@ -63,13 +63,15 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true)
 
-![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=highcontrast)
 
 
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=chartreuse-dark)
+
+
 [![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhijie-wei-858895219)
 
