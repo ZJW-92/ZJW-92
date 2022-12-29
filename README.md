@@ -1,5 +1,5 @@
-# 你好! Welcome to my Github page! 👋
-# 👉 [Personal portfolio]()
+
+# 👉 [Personal portfolio]() 👋
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
 
