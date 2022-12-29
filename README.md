@@ -10,8 +10,8 @@
 
 
 ## 💪🏻 Things I am challenging myself with: 
-- Go to the gym 3-4 times every week 
-- Keep learning about Robot framework,linux, data analysis etc
+- Go to the gym 4-5 times per week 
+- Keep learning about web development, Robot framework etc
 - Keep learning Swedish 🇸🇪 
 
 ## ⚡ Things I am interested with: 
