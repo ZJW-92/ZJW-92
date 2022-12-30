@@ -15,7 +15,7 @@
 - Keep learning Swedish 🇸🇪 
 
 ## ⚡ Things I am interested with: 
-- Quality Assurance, Test Automation, DevOps, Machine Learning, Cloud Engineering, Business Intelligence
+- Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning, Cloud Engineering, Business Intelligence
 
 ## 🛠 Tech Stack
 
@@ -62,9 +62,6 @@
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true)
-
 
 
 
