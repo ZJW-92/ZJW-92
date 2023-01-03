@@ -1,5 +1,5 @@
 
-# 👉 [Personal portfolio website](https://zhijiewei.netlify.app) 👋
+# 👉 [Personal portfolio website](https://zhijiewei.netlify.app)🍺🍻
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
 
