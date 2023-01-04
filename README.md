@@ -31,6 +31,15 @@
 ![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true)
 
 
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=aura)
+
+
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=chartreuse-dark)
 
