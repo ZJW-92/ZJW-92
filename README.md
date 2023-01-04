@@ -28,19 +28,27 @@
  
 ### Others: [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode)](https://skillicons.dev)
 
+
+
 ![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true)
 
 
+<a href="https://github.com/ZJW-92/FullStack_project"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura&border_radius=30"></a>
+ 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=aura)
 
 
 
 <!--
+<a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=30"></a>
+
+
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=chartreuse-dark)
 
 [![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
