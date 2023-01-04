@@ -1,5 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Upright&weight=300&size=30&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below%3A)](https://git.io/typing-svg)
+
+
 ## 👉 [Portfolio website](https://zhijiewei.netlify.app)🍺🍻
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
@@ -28,25 +30,21 @@
  
 ### Others: [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode)](https://skillicons.dev)
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true&border_radius=20">
 
+ <a href="https://github.com/ZJW-92/keep_fit_fitness_app"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=keep_fit_fitness_app&theme=aura&border_radius=20"></a>
 
-![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true)
-
-
-<a href="https://github.com/ZJW-92/FullStack_project"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura&border_radius=30"></a>
+ <a href="https://github.com/ZJW-92/Gourment_Shanghai_kitchen"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=aura&border_radius=20"></a>
  
+<br><br><br><br><br><br><br>
 
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=aura)
-
-
+ <a href="https://github.com/ZJW-92/FullStack_project"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura&border_radius=20"></a>
+ 
+ 
+<a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=20"></a>
 
 <!--
 <a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=30"></a>
-
-
-
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=chartreuse-dark)
