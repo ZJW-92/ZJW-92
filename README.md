@@ -1,10 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Upright&weight=300&size=30&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below%3A)](https://git.io/typing-svg)
 
-
 ## 👉 [Portfolio website](https://zhijiewei.netlify.app)🍺🍻
+![snake gif](https://github.com/ZJW-92/ZJW-92/blob/output/github-contribution-grid-snake.gif)
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
+
 
 ## 🌱 Things I am currently working on: 
 
@@ -42,6 +43,7 @@
  
  
 <a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=20"></a>
+
 
 <!--
 <a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=30"></a>
