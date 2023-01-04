@@ -20,6 +20,34 @@
 
 ## 🛠 Tech Stack
 
+### Frontend: [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,styledcomponents,react,redux,nextjs,nodejs,webpack,netlify,md)](https://skillicons.dev)
+ 
+ ### Backend:  [![My Skills](https://skillicons.dev/icons?i=express,nodejs,django,mongodb,postgres&perline=6)](https://skillicons.dev)
+ ### Testing: [![My Skills](https://skillicons.dev/icons?i=jenkins,selenium&perline=6)](https://skillicons.dev)
+ ### Machine learning: [![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow&perline=6)](https://skillicons.dev)
+ 
+### Others: [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode)](https://skillicons.dev)
+
+![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true)
+
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=chartreuse-dark)
+
+[![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
+[![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhijie-wei-858895219)
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=Stoink_stock_price_prediction&theme=react&show_owners)
+
+
+[![Mail Badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+<img align="right" src="https://imgur.com/qistEkP.gif" width="50%"/>
+
+
 - Frontend 💻: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -63,24 +91,6 @@
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-
-![Zhijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true)
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=chartreuse-dark)
-
-
-[![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
-[![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhijie-wei-858895219)
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=Stoink_stock_price_prediction&theme=react&show_owners)
-[![Mail Badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
-<img align="right" src="https://imgur.com/qistEkP.gif" width="50%"/>
 
 
 Here are some ideas to get you started:
