@@ -31,19 +31,21 @@
  
 ### Others: [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode)](https://skillicons.dev)
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true&border_radius=20">
 
- <a href="https://github.com/ZJW-92/keep_fit_fitness_app"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=keep_fit_fitness_app&theme=aura&border_radius=20"></a>
+<div width="100%" align="center">
+<a align="left" href="https://github.com/ZJW-92/keep_fit_fitness_app"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=keep_fit_fitness_app&theme=aura&border_radius=20"></a>
 
- <a href="https://github.com/ZJW-92/Gourment_Shanghai_kitchen"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=aura&border_radius=20"></a>
+ <a align="right" href="https://github.com/ZJW-92/Gourment_Shanghai_kitchen"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=aura&border_radius=20"></a>
  
 <br><br><br><br><br><br><br>
 
- <a href="https://github.com/ZJW-92/FullStack_project"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura&border_radius=20"></a>
+<div width="100%" align="center">
+ <a align="left" href="https://github.com/ZJW-92/FullStack_project"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura&border_radius=20"></a>
  
- 
-<a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=20"></a>
-
+<a align="right" href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=20"></a>
+</div>
 
 <!--
 <a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=30"></a>
