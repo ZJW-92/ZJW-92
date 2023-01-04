@@ -1,5 +1,6 @@
 
-# 👉 [Personal portfolio website](https://zhijiewei.netlify.app)🍺🍻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Upright&weight=300&size=30&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below%3A)](https://git.io/typing-svg)
+## 👉 [Portfolio website](https://zhijiewei.netlify.app)🍺🍻
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
 
