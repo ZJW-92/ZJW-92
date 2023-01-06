@@ -3,7 +3,7 @@
 
 ## 👉 [Portfolio website](https://zhijiewei.netlify.app)🍺🍻
 
-![snake gif](https://github.com/ZJW-92/ZJW-92/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/ZJW-92/ZJW-92/blob/output/github-contribution-grid-snake.svg" width="2000" >
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
 
