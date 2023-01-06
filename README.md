@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Upright&weight=300&size=30&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below%3A)](https://git.io/typing-svg)
 
 ## 👉 [Portfolio website](https://zhijiewei.netlify.app)🍺🍻
+
 ![snake gif](https://github.com/ZJW-92/ZJW-92/blob/output/github-contribution-grid-snake.gif)
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
@@ -32,20 +33,17 @@
 ### Others: [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode)](https://skillicons.dev)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true&border_radius=20">
+<img src="https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true&border_radius=20" width="600" >
 
-<div width="100%" align="center">
-<a align="left" href="https://github.com/ZJW-92/keep_fit_fitness_app"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=keep_fit_fitness_app&theme=aura&border_radius=20"></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZJW-92&theme=chartreuse-dark&hide_border=true&border_radius=20" width="600"></a>
 
- <a align="right" href="https://github.com/ZJW-92/Gourment_Shanghai_kitchen"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=aura&border_radius=20"></a>
- 
-<br><br><br><br><br><br><br>
 
-<div width="100%" align="center">
- <a align="left" href="https://github.com/ZJW-92/FullStack_project"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura&border_radius=20"></a>
- 
-<a align="right" href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=20"></a>
-</div>
+<a align="left" href="https://github.com/ZJW-92/keep_fit_fitness_app"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=keep_fit_fitness_app&theme=aura&border_radius=20" width="450"></a>
+<a align="right" href="https://github.com/ZJW-92/Gourment_Shanghai_kitchen"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=aura&border_radius=20" width="450"></a>
+
+<a align="right" href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=20" width="450"></a>
+<a align="left" href="https://github.com/ZJW-92/FullStack_project"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura&border_radius=20" width="450"></a>
+
 
 <!--
 <a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=30"></a>
