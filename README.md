@@ -1,18 +1,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Upright&weight=300&size=30&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below%3A)](https://git.io/typing-svg)
 
-## 👉 [Portfolio website](https://zhijiewei.netlify.app)🍺🍻
+## 👉 [Portfolio website](https://zhijiewei.netlify.app) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
+<!--snake animation-->
 <img src="https://github.com/ZJW-92/ZJW-92/blob/output/github-contribution-grid-snake.svg">
 
-<img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
+<!--gif-->
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
 
 
 ## 🌱 Things I am currently working on: 
 
 - Keep learning web application and testing 
 - Find a job within IT 
-
 
 ## 💪🏻 Things I am challenging myself with: 
 - Go to the gym 4-5 times per week 
@@ -23,14 +24,48 @@
 - Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning, Cloud Engineering, Business Intelligence
 
 ## 🛠 Tech Stack
-
-### Frontend: [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,styledcomponents,react,redux,nextjs,nodejs,webpack,netlify,md)](https://skillicons.dev)
- 
- ### Backend:  [![My Skills](https://skillicons.dev/icons?i=express,nodejs,django,mongodb,postgres&perline=6)](https://skillicons.dev)
- ### Testing: [![My Skills](https://skillicons.dev/icons?i=jenkins,selenium&perline=6)](https://skillicons.dev)
- ### Machine learning: [![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow&perline=6)](https://skillicons.dev)
- 
-### Others: [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode)](https://skillicons.dev)
+<!--frontend-->
+<p align="left"><strong> :computer: Front-end</strong> &nbsp
+<a href="html"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
+<a href="css"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
+<a href="js"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
+<a href="bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
+<a href="mui"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40"/></a>
+<a href="styled_components"><img src="https://skillicons.dev/icons?i=styledcomponents" width="40" height="40"/></a>
+<a href="react"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
+<a href="redux"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/></a>
+<a href="nextjs"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
+<a href="nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
+<a href="webpack"><img src="https://skillicons.dev/icons?i=webpack" width="40" height="40"/></a>
+<a href="netlify"><img src="https://skillicons.dev/icons?i=netlify" width="40" height="40"/></a>
+<a href="md"><img src="https://skillicons.dev/icons?i=md" width="40" height="40"/></a>
+</p>
+<!--backend-->
+<p align="left"><strong> 🖥 Back-end </strong>&nbsp
+<a href="express"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
+<a href="nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
+<a href="django"><img src="https://skillicons.dev/icons?i=django" width="40" height="40"/></a>
+<a href="mongodb"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
+</p>
+<!--testing-->
+ <p align="left"><strong>🤖 Testing </strong>&nbsp
+<a href="jenkins"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/></a>
+<a href="selenium"><img src="https://skillicons.dev/icons?i=selenium" width="40" height="40"/></a>
+</p>
+<!--ml-->
+<p align="left"><strong> 🚀 Machine learning </strong>&nbsp
+<a href="python"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
+<a href="r"><img src="https://skillicons.dev/icons?i=r" width="40" height="40"/></a>
+<a href="tensorflow"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
+</p>
+<!--others-->
+<p align="left"><strong> 🌏 Others </strong>&nbsp
+<a href="git"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
+<a href="github"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
+<a href="gitlab"><img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40"/></a>
+<a href="linux"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
+<a href="vscode"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>
+</p>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true&border_radius=20" width="600" >
@@ -48,14 +83,14 @@
 
 
 <!--
-<a href="https://github.com/ZJW-92/personal_portfolio"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=30"></a>
+
+<img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=chartreuse-dark)
 
 [![gmail badge](https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zjwei0201@gmail.com)](mailto:zjwei0201@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhijie-wei-858895219)
-
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=Stoink_stock_price_prediction&theme=react&show_owners)
 
@@ -78,7 +113,6 @@
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
 
 - Backend 🖥: ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
