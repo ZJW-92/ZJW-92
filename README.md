@@ -10,7 +10,7 @@
 <img src="https://github.com/ZJW-92/ZJW-92/blob/output/github-contribution-grid-snake.svg">
 
 <!--coding gif-->
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="550">
 
 
 ## 🌱 Things I am currently working on: 
