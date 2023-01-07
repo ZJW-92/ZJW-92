@@ -2,16 +2,13 @@
 <!--welcome svg-->
 <a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&weight=300&size=30&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below%3A" width="100%"></a>
  
-
 ## 👉 [Portfolio website](https://zhijiewei.netlify.app) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" >
-
 
 <!--snake animation-->
 <img src="https://github.com/ZJW-92/ZJW-92/blob/output/github-contribution-grid-snake.svg">
 
-<!--coding gif-->
+<!--code guy gif-->
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="550">
-
 
 ## 🌱 Things I am currently working on: 
 
@@ -19,13 +16,12 @@
 - Find a job within IT 
 
 ## 💪🏻 Things I am challenging myself with: 
-- Go to the gym _4-5 times_ per week 
-
-- Keep learning about web development, Robot framework etc
-- Keep learning Swedish 🇸🇪 
+- Go to the gym __4-5 times__ per week 
+- Keep learning about __Reactjs, Nextjs, Robot framework__ etc
+- Keep learning __Swedish 🇸🇪__
 
 ## ⚡ Things I am interested with: 
->**_Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning, Cloud Engineering, Business Intelligence_**
+>***Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning, Business Intelligence***
 
 <hr></hr>
 
@@ -92,12 +88,12 @@
 </details>
 
 
-## Contact:
+## Get in touch:
 <!--gmail badge and linkedin badge-->
 <a href="mailto:zjwei0201@gmail.com"><img src="https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" width="200" align='center'/></a> &nbsp;<a href="https://www.linkedin.com/in/zhijie-wei-858895219"><img src="https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="115" align='center'/></a>
 
 <!--diansaur gif-->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="100%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/>
 
 
 
