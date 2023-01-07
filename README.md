@@ -15,18 +15,19 @@
 
 ## 🌱 Things I am currently working on: 
 
-- Keep learning web application and testing 
+- Keep learning **web application and testing** 
 - Find a job within IT 
 
 ## 💪🏻 Things I am challenging myself with: 
-- Go to the gym 4-5 times per week 
+- Go to the gym _4-5 times_ per week 
 
 - Keep learning about web development, Robot framework etc
 - Keep learning Swedish 🇸🇪 
 
 ## ⚡ Things I am interested with: 
-- Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning, Cloud Engineering, Business Intelligence
+>**_Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning, Cloud Engineering, Business Intelligence_**
 
+<hr></hr>
 
 ## 🛠 Tech Stack
 <!--frontend-->
@@ -72,6 +73,7 @@
 <a href="vscode"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>
 </p>
 
+<hr></hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZJW-92&theme=chartreuse-dark&show_icons=true&border_radius=20" width="600" >
 
@@ -94,10 +96,12 @@
 <!--gmail badge and linkedin badge-->
 <a href="mailto:zjwei0201@gmail.com"><img src="https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" width="200" align='center'/></a> &nbsp;<a href="https://www.linkedin.com/in/zhijie-wei-858895219"><img src="https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="115" align='center'/></a>
 
+<!--diansaur gif-->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="100%"/>
 
 
 
-<!--
+<!-- unused comments
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
 
