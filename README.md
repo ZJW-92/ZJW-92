@@ -82,10 +82,10 @@
 <!--hide other project cards-->
 <details>
 <summary><h2>&#9776; More</h2></summary>
+<a href="https://github.com/ZJW-92/modernApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=modernApp&theme=aura&border_radius=20" width='49%' align="center" ></a>
 <a href="https://github.com/ZJW-92/personal_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=20" width='49%' align="center" ></a>
 <span>&nbsp;</span><span>&nbsp;</span>
-<a href="https://github.com/ZJW-92/FullStack_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=FullStack_project&theme=aura&border_radius=20" width='49%' align="center"></a>
-</details>
+
 
 
 ## Get in touch:
