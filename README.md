@@ -30,6 +30,7 @@
 <p align="left"><strong> :computer: Front-end</strong> &nbsp
 <a href="html"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
 <a href="css"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
+<a href="tailwindcss"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
 <a href="js"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
 <a href="bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
 <a href="mui"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40"/></a>
@@ -48,6 +49,7 @@
 <a href="nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
 <a href="django"><img src="https://skillicons.dev/icons?i=django" width="40" height="40"/></a>
 <a href="mongodb"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
+<a href="graphql"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40"/></a>
 </p>
 <!--testing-->
  <p align="left"><b>🤖 Testing </b>&nbsp
@@ -85,7 +87,7 @@
 <a href="https://github.com/ZJW-92/modernApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=modernApp&theme=aura&border_radius=20" width='49%' align="center" ></a>
 <a href="https://github.com/ZJW-92/personal_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=aura&border_radius=20" width='49%' align="center" ></a>
 <span>&nbsp;</span><span>&nbsp;</span>
-
+</details>
 
 
 ## Get in touch:
