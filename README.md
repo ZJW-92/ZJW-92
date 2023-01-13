@@ -3,7 +3,7 @@
 <a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven Pro&weight=300&size=28&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below" width="100%"></a> 
 
 <p align="center">
-<a href="https://zhijiewei.netlify.app"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://zhijiewei.netlify.app"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" width="20%" height="20%"/></a>
 </p>
 
 
@@ -105,17 +105,16 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
+<h2 align="left">
+<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" align="center">Get in touch: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" align="center">
+</h2>
 
-## Get in touch:
 <!--gmail badge and linkedin badge-->
 <a href="mailto:zjwei0201@gmail.com"><img src="https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" width="200" align='center'/></a> &nbsp;<a href="https://www.linkedin.com/in/zhijie-wei-858895219"><img src="https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="115" align='center'/></a>
 
-<!--diansaur gif-->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/>
 
 
-
-
+<img width=100% alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 <!-- unused comments
@@ -126,10 +125,11 @@
 </p>
 
 
-
 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" >
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJW-92&layout=compact&theme=chartreuse-dark)
