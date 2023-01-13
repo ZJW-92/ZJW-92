@@ -1,8 +1,11 @@
 
 <!--welcome svg-->
-<a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven Pro&weight=300&size=28&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below" width="70%"></a> 
+<a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven Pro&weight=300&size=28&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below" width="100%"></a> 
 
-### 🔭 [Portfolio](https://zhijiewei.netlify.app) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" >
+<p align="center">
+<a href="https://zhijiewei.netlify.app"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
+
 
 <!--snake animation-->
 <img src="https://github.com/ZJW-92/ZJW-92/blob/output/github-contribution-grid-snake.svg">
@@ -106,7 +109,13 @@
 
 
 
+
+
+
 <!-- unused comments
+====================================
+
+<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" >
 
 <img align="right" src="https://imgur.com/qistEkP.gif" width="50%" />
 
