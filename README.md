@@ -84,11 +84,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZJW-92&theme=chartreuse-dark&hide_border=true&border_radius=20" width="600"></a>
 
-![cms-blog](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=cms_blog_app&theme=yeblu)
-
-![cms-blog](https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=yeblu)
-
-
 <!--hide other project cards-->
 <details>
 <summary><h2>&#9776; More</h2></summary>
