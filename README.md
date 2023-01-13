@@ -26,8 +26,8 @@
 ## ⚡ Things I am interested with: 
 >***Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning, Business Intelligence***
 
-<hr></hr>
-<br>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+
 <h1 align="left">
 <img width="45" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Tech Stack <img width="45" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
  </h1>
@@ -101,6 +101,9 @@
 <a href="https://github.com/ZJW-92/personal_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=outrun&border_radius=20" width='49%' align="center" ></a>
 <span>&nbsp;</span><span>&nbsp;</span>
 </details>
+
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 
 ## Get in touch:
