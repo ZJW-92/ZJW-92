@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zhijie-💙💛-Wei&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zhijie-🇨🇳🇸🇪-Wei&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
 <!--welcome svg-->
 <a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven Pro&weight=300&size=28&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below" width="100%"></a> 
@@ -109,7 +109,7 @@
 <a href="mailto:zjwei0201@gmail.com"><img src="https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" width="200" align='center'/></a> &nbsp;<a href="https://www.linkedin.com/in/zhijie-wei-858895219"><img src="https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="115" align='center'/></a>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Zhijie-💙💛-Wei&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=60"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Zhijie-🇨🇳🇸🇪-Wei&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=60"/>
 
 
 <!-- unused comments
