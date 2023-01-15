@@ -25,7 +25,7 @@
 - Keep learning __Swedish 🇸🇪__
 
 ## ⚡ Things I am interested with: 
->***Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning, Business Intelligence***
+>***Web Development, UI/UX Design, Quality Assurance, Test Automation, DevOps, Machine Learning***
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
