@@ -42,6 +42,7 @@
 <a href="bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
 <a href="mui"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40"/></a>
 <a href="styled_components"><img src="https://skillicons.dev/icons?i=styledcomponents" width="40" height="40"/></a>
+<a href="figma"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a>
 <a href="js"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
 <a href="react"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
 <a href="redux"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/></a>
