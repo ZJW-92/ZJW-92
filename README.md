@@ -40,6 +40,7 @@
 <a href="tailwindcss"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
 <a href="sass"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/></a>
 <a href="bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
+<a href="vite"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40"/></a>
 <a href="mui"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40"/></a>
 <a href="styled_components"><img src="https://skillicons.dev/icons?i=styledcomponents" width="40" height="40"/></a>
 <a href="figma"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a>
@@ -50,6 +51,7 @@
 <a href="nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
 <a href="webpack"><img src="https://skillicons.dev/icons?i=webpack" width="40" height="40"/></a>
 <a href="netlify"><img src="https://skillicons.dev/icons?i=netlify" width="40" height="40"/></a>
+<a href="vercel"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/></a>
 <a href="md"><img src="https://skillicons.dev/icons?i=md" width="40" height="40"/></a>
 </p>
 <!--backend-->
@@ -89,8 +91,11 @@
 <!--hide other project cards-->
 <details>
 <summary><h2>&#9776; More</h2></summary>
-<a href="https://github.com/ZJW-92/cms_blog_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=cms_blog_app&theme=yeblu&border_radius=20" width='49%' align="center"></a>
+ 
+<a href="https://github.com/ZJW-92/chatgpt_openai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=chatgpt_openai&theme=yeblu&border_radius=20" width='49%' align="center"></a>
 <span>&nbsp;</span><span>&nbsp;</span>
+<a href="https://github.com/ZJW-92/cms_blog_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=cms_blog_app&theme=yeblu&border_radius=20" width='49%' align="center"></a>
+ 
 <a href="https://github.com/ZJW-92/Gourment_Shanghai_kitchen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=gourment_shanghai_kitchen&theme=yeblu&border_radius=20" width='49%' align="center"></a>
 <a href="https://github.com/ZJW-92/keep_fit_fitness"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=keep_fit_fitness_app&theme=yeblu&border_radius=20" width='49%' align="center"></a>
 <span>&nbsp;</span><span>&nbsp;</span>
@@ -98,7 +103,6 @@
 <a href="https://github.com/ZJW-92/personal_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=outrun&border_radius=20" width='49%' align="center" ></a>
 <span>&nbsp;</span><span>&nbsp;</span>
 </details>
-
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
