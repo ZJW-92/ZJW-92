@@ -35,24 +35,24 @@
  
 <!--frontend-->
 <p align="left"><strong> :computer: Front-end</strong> &nbsp
-<a href="html"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
-<a href="css"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
-<a href="tailwindcss"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
-<a href="sass"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/></a>
-<a href="bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
-<a href="vite"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40"/></a>
-<a href="mui"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40"/></a>
-<a href="styled_components"><img src="https://skillicons.dev/icons?i=styledcomponents" width="40" height="40"/></a>
-<a href="figma"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a>
-<a href="js"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-<a href="react"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
-<a href="redux"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/></a>
-<a href="nextjs"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
-<a href="nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
-<a href="webpack"><img src="https://skillicons.dev/icons?i=webpack" width="40" height="40"/></a>
-<a href="netlify"><img src="https://skillicons.dev/icons?i=netlify" width="40" height="40"/></a>
-<a href="vercel"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/></a>
-<a href="md"><img src="https://skillicons.dev/icons?i=md" width="40" height="40"/></a>
+<a href="html"><img src="https://skillicons.dev/icons?i=html" width="35" height="35"/></a>
+<a href="css"><img src="https://skillicons.dev/icons?i=css" width="35" height="35"/></a>
+<a href="tailwindcss"><img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35"/></a>
+<a href="sass"><img src="https://skillicons.dev/icons?i=sass" width="35" height="35"/></a>
+<a href="bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="35" height="35"/></a>
+<a href="vite"><img src="https://skillicons.dev/icons?i=vite" width="35" height="35"/></a>
+<a href="mui"><img src="https://skillicons.dev/icons?i=materialui" width="35" height="35"/></a>
+<a href="styled_components"><img src="https://skillicons.dev/icons?i=styledcomponents" width="35" height="35"/></a>
+<a href="figma"><img src="https://skillicons.dev/icons?i=figma" width="35" height="35"/></a>
+<a href="js"><img src="https://skillicons.dev/icons?i=js" width="35" height="35"/></a>
+<a href="react"><img src="https://skillicons.dev/icons?i=react" width="35" height="35"/></a>
+<a href="redux"><img src="https://skillicons.dev/icons?i=redux" width="35" height="35"/></a>
+<a href="nextjs"><img src="https://skillicons.dev/icons?i=nextjs" width="35" height="35"/></a>
+<a href="nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35"/></a>
+<a href="webpack"><img src="https://skillicons.dev/icons?i=webpack" width="35" height="35"/></a>
+<a href="netlify"><img src="https://skillicons.dev/icons?i=netlify" width="35" height="35"/></a>
+<a href="vercel"><img src="https://skillicons.dev/icons?i=vercel" width="35" height="35"/></a>
+<a href="md"><img src="https://skillicons.dev/icons?i=md" width="35" height="35"/></a>
 </p>
 <!--backend-->
 <p align="left"><b> 🖥 Back-end </b>&nbsp
