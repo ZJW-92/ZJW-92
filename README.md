@@ -4,7 +4,7 @@
 <a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven Pro&weight=300&size=28&pause=1000&color=330033&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below" width="100%"></a> 
 
 <p align="center">
-<a href="https://zhijiewei.netlify.app"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" width="20%" height="20%"/></a>
+<a href="https://zhijiewei.vercel.app"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" width="20%" height="20%"/></a>
 </p>
 
 
