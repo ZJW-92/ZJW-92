@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zhijie-🇨🇳🇸🇪-Wei&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
 <!--welcome svg-->
 <a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven Pro&weight=300&size=28&pause=1000&color=64FFDA&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below" width="100%"></a> 
