@@ -14,24 +14,24 @@
 <!--code guy gif-->
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="550">
 
-## 🌱 Things I am currently working on: 
+🌱 ***Things I am currently working on:*** 
 
-- Keep learning **web application and testing** 
+- Keep learning ***Web Development and Testing***
 - Find a job within IT 
 
-## 💪🏻 Things I am challenging myself with: 
-- Go to the gym __4-5 times__ per week 
-- Keep learning about __Reactjs, Robot framework__ etc
-- Keep learning __Swedish 🇸🇪__
+💪🏻 ***Things I am challenging myself with:***
+- Go to the gym ***>= 4times/week***
+- Keep learning about _**Reactjs**_, __Robot framework__ etc
+- Keep learning ***Swedish 🇸🇪***
 
-## ⚡ Things I am interested with: 
+⚡ ***Things I am interested with:***
 >***Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning***
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-<h1 align="left">
+<h2 align="left">
 <img width="45" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Tech Stack <img width="45" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
- </h1>
+ </h2>
  
 <!--frontend-->
 <p align="left"><strong> :computer: Front-end</strong> &nbsp
@@ -66,6 +66,7 @@
  <p align="left"><b>🤖 Testing </b>&nbsp
 <a href="jenkins"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/></a>
 <a href="selenium"><img src="https://skillicons.dev/icons?i=selenium" width="40" height="40"/></a>
+<a href="gitlab"><img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40"/></a>
 </p>
 <!--ml-->
 <p align="left"><b> 🚀 Machine learning </b>&nbsp
@@ -77,7 +78,6 @@
 <p align="left"><b> 🌏 Others </b>&nbsp
 <a href="git"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
 <a href="github"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
-<a href="gitlab"><img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40"/></a>
 <a href="linux"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
 <a href="vscode"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>
 </p>
@@ -90,7 +90,7 @@
 
 <!--hide other project cards-->
 <details>
-<summary><h2>&#9776; More</h2></summary>
+<summary><h2><b><i>&#9776; More</i></b></h2></summary>
  
 <a href="https://github.com/ZJW-92/chatgpt_openai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=chatgpt_openai&theme=yeblu&border_radius=20" width='49%' align="center"></a>
 <span>&nbsp;</span><span>&nbsp;</span>
@@ -103,9 +103,9 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-<h2 align="left">
-<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" align="center">Get in touch: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" align="center">
-</h2>
+<h3 align="left">
+<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" align="center"><b><i>Get In Touch</i></b><img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" align="center">
+</h3>
 
 <!--gmail badge and linkedin badge-->
 <a href="mailto:zjwei0201@gmail.com"><img src="https://img.shields.io/badge/-zjwei0201@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" width="200" align='center'/></a> &nbsp;<a href="https://www.linkedin.com/in/zhijie-wei-858895219"><img src="https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="115" align='center'/></a>
