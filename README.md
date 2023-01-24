@@ -16,7 +16,7 @@
 
 🌱 ***Things I am currently working on:*** 
 
-- Keep learning ***Web Development and Testing***
+- ***Back-end*** Development Framework
 - Find a job within IT 
 
 💪🏻 ***Things I am challenging myself with:***
@@ -25,7 +25,7 @@
 - Keep learning ***Swedish 🇸🇪***
 
 ⚡ ***Things I am interested with:***
->***Web Development, Quality Assurance, Test Automation, DevOps, Machine Learning***
+>***User Requirements, Full-stack Development, Quality Assurance, Test Automation, DevOps, Machine Learning***
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
