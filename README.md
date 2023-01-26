@@ -17,11 +17,12 @@
 🌱 ***Things I am currently working on:*** 
 
 - ***Back-end*** Development Framework
+- ***Embedded*** Development
 - Find a job within IT 
 
 💪🏻 ***Things I am challenging myself with:***
 - Go to the gym ***>= 4times/week***
-- Keep learning about _**Reactjs**_, __Robot framework__ etc
+- Keep learning about _**Reactjs**_, __Robot framework__ etc 
 - Keep learning ***Swedish 🇸🇪***
 
 ⚡ ***Things I am interested with:***
