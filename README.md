@@ -16,8 +16,8 @@
 
 🌱 ***Things I am currently working on:*** 
 
-- ***Back-end*** Development Framework
-- ***Embedded*** Development
+- ***.NET & C#*** _Framework_
+- ***Embedded*** _Development_
 - Find a job within IT 
 
 💪🏻 ***Things I am challenging myself with:***
