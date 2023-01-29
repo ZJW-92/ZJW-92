@@ -85,7 +85,7 @@
 
 <hr></hr>
 
-<img src="https://github.com/ZJW-92/ZJW-92/blob/main/skyline.gif" height="250" width="600">
+<img src="https://github.com/ZJW-92/ZJW-92/blob/main/Skyline.gif" height="250" width="600">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zjw-92&theme=yeblu&show_icons=true&border_radius=20" width="600" >
 
