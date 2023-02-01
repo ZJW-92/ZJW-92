@@ -95,10 +95,10 @@
 <!--hide other project cards-->
 <details>
 <summary><h2><b><i>&#9776; More</i></b></h2></summary>
- 
+ <a href="https://github.com/ZJW-92/web3_blockchain_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=web3_blockchain_app&theme=yeblu&border_radius=20" width='49%' align="center"></a>
+ <span>&nbsp;</span><span>&nbsp;</span>
 <a href="https://github.com/ZJW-92/chatgpt_openai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=chatgpt_openai&theme=yeblu&border_radius=20" width='49%' align="center"></a>
-<span>&nbsp;</span><span>&nbsp;</span>
-<a href="https://github.com/ZJW-92/cms_blog_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=cms_blog_app&theme=yeblu&border_radius=20" width='49%' align="center"></a>
+
  
 <a href="https://github.com/ZJW-92/portfolio_v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=portfolio_v2&theme=outrun&border_radius=20" width='49%' align="center" ></a>
 <span>&nbsp;</span><span>&nbsp;</span>
