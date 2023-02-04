@@ -96,15 +96,16 @@
 <!--hide other project cards-->
 <details>
 <summary><h2><b><i>&#9776; More</i></b></h2></summary>
- <a href="https://github.com/ZJW-92/web3_blockchain_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=web3_blockchain_app&theme=yeblu&border_radius=20" width='49%' align="center"></a>
- <span>&nbsp;</span><span>&nbsp;</span>
-<a href="https://github.com/ZJW-92/chatgpt_openai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=chatgpt_openai&theme=yeblu&border_radius=20" width='49%' align="center"></a>
+ <a href="https://github.com/ZJW-92/ML_face_mask_detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=ML_face_mask_detection&theme=yeblu&border_radius=20" width='32%' align="center"></a>
+  <span>&nbsp;</span>
+ <a href="https://github.com/ZJW-92/facial_emotion_detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=facial_emotion_detection&theme=yeblu&border_radius=20" width='32%' align="center"></a>
+ <span>&nbsp;</span>
+<a href="https://github.com/ZJW-92/pose_estimation_opencv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=pose_estimation_opencv&theme=yeblu&border_radius=20" width='32%' align="center"></a>
 
- 
-<a href="https://github.com/ZJW-92/portfolio_v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=portfolio_v2&theme=outrun&border_radius=20" width='49%' align="center" ></a>
-<span>&nbsp;</span><span>&nbsp;</span>
-<a href="https://github.com/ZJW-92/personal_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=personal_portfolio&theme=outrun&border_radius=20" width='49%' align="center" ></a>
-</details>
+ <a href="https://github.com/ZJW-92/web3_blockchain_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=web3_blockchain_app&theme=yeblu&border_radius=20" width='32%' align="center"></a>
+ <span>&nbsp;</span>
+<a href="https://github.com/ZJW-92/chatgpt_openai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=chatgpt_openai&theme=yeblu&border_radius=20" width='32%' align="center"></a>
+
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
