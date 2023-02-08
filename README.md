@@ -17,9 +17,7 @@
 🌱 ***Things I am currently working on:*** 
 
 - ***.NET & C#*** _Framework_
-- ***Embedded*** _Development_
 - ***Web3*** 
-- Find a job within IT 
 
 💪🏻 ***Things I am challenging myself with:***
 - Go to the gym ***>= 4times/week***
