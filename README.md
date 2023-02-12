@@ -103,7 +103,7 @@
  <a href="https://github.com/ZJW-92/web3_blockchain_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=web3_blockchain_app&theme=yeblu&border_radius=20" width='32%' align="center"></a>
  <span>&nbsp;</span>
 <a href="https://github.com/ZJW-92/chatgpt_openai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZJW-92&repo=chatgpt_openai&theme=yeblu&border_radius=20" width='32%' align="center"></a>
-
+</details>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
