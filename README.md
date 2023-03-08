@@ -1,6 +1,6 @@
 
 <!--welcome svg-->
-<a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&weight=400&size=34&pause=1000&color=0bd1d1&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below" width="100%"></a> 
+<a href="welcome-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&weight=400&size=32&pause=1000&color=0bd1d1&&center=true&width=500&height=60&lines=Welcome+To+My+GitHub+Page!;View+My+Portfolio+Down+Below" width="100%"></a> 
 
 
 <p align="center">
