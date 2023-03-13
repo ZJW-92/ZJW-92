@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="https://zhijiewei.vercel.app"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" width="20%" height="20%"/></a>
+<a href="https://zhijie92.netlify.app"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" width="20%" height="20%"/></a>
 </p>
 
 
