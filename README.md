@@ -21,7 +21,7 @@
 
 💪🏻 ***Things I am challenging myself with:***
 - Go to the gym ***>= 4times/week***
-- Keep learning about _**Reactjs**_, __Robot framework__ etc 
+- Keep learning about _**Reactjs**_
 - Keep learning ***Swedish 🇸🇪***
 
 ⚡ ***Things I am interested with:***
